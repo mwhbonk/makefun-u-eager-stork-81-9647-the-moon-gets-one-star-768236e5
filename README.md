@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-eager-stork-81-9647-the-moon-gets-one-star-768236e5/mwhbonk/makefun-u-eager-stork-81-9647-the-moon-gets-one-star-768236e5/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-moon-gets-one-star-768236e5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-moon-gets-one-star-768236e5)
 [![reward](https://make.fun/badge/u-eager-stork-81-9647-the-moon-gets-one-star-768236e5/mwhbonk/makefun-u-eager-stork-81-9647-the-moon-gets-one-star-768236e5/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-moon-gets-one-star-768236e5?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-moon-gets-one-star-768236e5)
 
-A one-star review of the Moon, in one line of 102 characters. The field is
+A one-star review of the Moon, in one line of 99 characters. The field is
 full of ghosting, tides, and same-face jokes, so this one takes a different,
 Moon-only grievance: the Moon is genuinely drifting away from Earth — about
 3.8 cm a year — and the review treats it like a breakup. Rating first, a
@@ -15,7 +15,7 @@ Entry for [The Moon Gets One Star](https://make.fun/bounty/u-eager-stork-81-9647
 
 ## The line
 
-> One star. Drifting away from Earth at 3.8 cm a year and pretending everything's fine. We need to talk.
+> One star. Drifting away from us at 3.8 cm a year and pretending everything's fine. We need to talk.
 
 ## Run it
 
